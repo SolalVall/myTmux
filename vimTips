@@ -1,0 +1,18 @@
+#################################################################################################
+#               MOVES / INSERT                  #                   SPECIFIC                    #
+#################################################################################################
+#                                               #                                               #
+# b      - moves to the end of a word.          # #+word  - find next occurence of word in file #
+# w      - moves to the beginnig of a word.     # :!      - to run the shell commands like: :!ls#
+# f+keys - moves to specified key               # %       - to find a matching ),], or }        #
+# '.     - last place edited                    # ce      - deletes the word and Insert mode    #
+# "      - last place                           # df+keys - delete to the sepecified key        #
+#                                               # :vsp    - vertical split                      #
+# a - inserts text after the cursor.            # :Ex     - file explorer                       #
+# A - inserts text after the end of the line.   #                                               #
+# O - inserts text above the cursor.            #                                               #
+#                                               #                                               #
+#                                               #                                               #
+#                                               #                                               #
+#                                               #                                               #
+#################################################################################################
